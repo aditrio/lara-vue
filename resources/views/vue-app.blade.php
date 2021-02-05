@@ -17,7 +17,10 @@
 <body>
     
     <div id="app">
+        <header-component></header-component>
         <h2>Hello, Vue</h2>
+        <example-component></example-component>
+        <footer-component></footer-component>
     </div>
 
 
